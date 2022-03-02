@@ -1,6 +1,6 @@
 learning git
 making first change
 
-poll scm
+poll scm2
 
 
